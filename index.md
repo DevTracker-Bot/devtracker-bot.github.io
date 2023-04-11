@@ -14,5 +14,5 @@ layout: home
 - Built with [Disnake](https://disnake.dev/).
 
 # Links
-- [Github Repository](https//www.github.com/s0me-1/devtracker-bot)
+- [Github Repository](https://www.github.com/s0me-1/devtracker-bot)
 - [Official Discord Server](https://discord.gg/VsYD9Bfgvj)
