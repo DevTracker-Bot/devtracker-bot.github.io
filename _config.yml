@@ -14,7 +14,6 @@ theme: minima
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Theme-specific settings
 
