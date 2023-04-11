@@ -192,8 +192,39 @@ pre {
   }
 }
 
+.page-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
 
+.logo-row {
+  display: flex;
+  align-items: center;
+}
 
+.img-logo {
+  height: 8vw;
+  width: 8vw;
+  flex-grow: 1;
+}
+
+.text-logo {
+  font-family: "Airstrike";
+  font-size: 8vw;
+  flex-grow: 100000;
+  margin: 0 16px 0 16px;
+}
+
+.invite-button {
+
+  &:hover {
+   opacity: 0.8;
+   transition-duration: 0.3s;
+  }
+}
 /**
  * Wrapper
  */

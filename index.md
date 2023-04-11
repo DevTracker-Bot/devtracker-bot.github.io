@@ -9,10 +9,6 @@ layout: home
 ---
 
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=982257201211138050&permissions=274877925376&scope=bot%20applications.commands">
-    <img src="https://i33.servimg.com/u/f33/11/20/17/41/invite10.png" alt="Invite DevTracker to your server"/>
-</a>
-
 # About
 - Discord Bot interfacing with the API of [DeveloperTracker.com](https://developertracker.com/).
 - Built with [Disnake](https://disnake.dev/).

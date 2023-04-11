@@ -7,17 +7,22 @@ layout: base
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  <div style="display: flex; justify-content: center;">
-      <p>
-        <img src="https://i33.servimg.com/u/f33/11/20/17/41/logo_b11.png" alt="DevTracker Bot Logo" />
-      </p>
-
-      <div style="flex-direction:column; padding: 6em 10em;">
-        {{ content }}
+  <div class="page-body">
+    <div class="logo-row">
+      <div class="text-logo">
+        DevTracker
       </div>
+      <img src="https://i33.servimg.com/u/f33/11/20/17/41/logos_10.png" alt="DevTracker Bot Logo" class="img-logo"/>
     </div>
+    <a class="invite-button" href="https://discord.com/api/oauth2/authorize?client_id=982257201211138050&permissions=274877925376&scope=bot%20applications.commands">
+      <img src="https://i33.servimg.com/u/f33/11/20/17/41/invite10.png" alt="Invite DevTracker Bot" class="img-invite"/>
+    </a>
 
+    <div class="page-content">
+    {{ content }}
+    </div>
   </div>
+
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
