@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+permalink: /tos
+---
+
 **Last updated April 10, 2023**
 
 ## AGREEMENT TO OUR LEGAL TERMS
