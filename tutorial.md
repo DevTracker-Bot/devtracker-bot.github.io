@@ -38,7 +38,7 @@ Now we add the Spectrum service
 
 Now you'll only receive posts if they come from Spectrum or the RSI Comm-Link
 
-### S5. Keep only posts from the Patch Notes category on Spectrum
+### 5. Keep only posts from the Patch Notes category on Spectrum
 
 This is where [
     URL Filters](https://github.com/s0me-1/devtracker-bot#url-filters) become useful.
