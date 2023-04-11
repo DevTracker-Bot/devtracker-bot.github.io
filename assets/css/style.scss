@@ -6,12 +6,6 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-@font-face {
-  font-family: "Share Tech";
-  src: url("../fonts/ShareTech-Regular.tff");
-}
-
-@font-face {
-  font-family: "Airstrike";
-  src: url("../fonts/airstrike.tff");
-}
+  .site-footer {
+    display: none;
+  }

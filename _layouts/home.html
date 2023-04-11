@@ -7,9 +7,17 @@ layout: base
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <div style="display: flex; justify-content: center;">
+      <p>
+        <img src="https://i33.servimg.com/u/f33/11/20/17/41/logo_b11.png" alt="DevTracker Bot Logo" />
+      </p>
 
+      <div style="flex-direction:column; padding: 6em 10em;">
+        {{ content }}
+      </div>
+    </div>
 
+  </div>
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}

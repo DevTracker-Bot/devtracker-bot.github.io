@@ -1,4 +1,4 @@
-title: DevTracker Discord Bot
+title: DevTracker </>
 author:
   name: S0me-1
   email: s0me-1@no-reply.github.com
@@ -47,7 +47,10 @@ minima:
 # order as they should show up.
 #
 header_pages:
+  - tutorial.md
+  - documentation.md
   - tos.md
+  - privacy.md
 
 # Set to `true` to show excerpts on the homepage.
 #

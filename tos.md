@@ -112,7 +112,7 @@ permission.
 
 If you wish to make any use of the Services, Content, or
 Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request
-to: devtracker@hyperq.be. If we ever grant you the permission to post,
+at https://github.com/s0me-1/devtracker-bot/issues. If we ever grant you the permission to post,
 reproduce, or publicly display any part of our Services or Content, you must identify us as the owners
 or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice
 appears or is visible on posting, reproducing, or displaying our Content.
@@ -307,7 +307,7 @@ use the Services and/or the Content for any revenue-generating endeavour
 or commercial enterprise.
 
 
-## 6.USER GENERATED CONTRIBUTIONS**
+## 6.USER GENERATED CONTRIBUTIONS
 
 The
 Services does not offer users to submit or post content. We may provide you with the
@@ -577,7 +577,7 @@ that we shall have no liability to you for any loss or corruption of any such
 data, and you hereby waive any right of action against us arising from any such
 loss or corruption of such data.
 
-## 20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
+## 20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
 
 Visiting the Services, sending us emails, and completing
 online forms constitute electronic communications. You consent to receive electronic communications, and
@@ -607,12 +607,11 @@ will not be construed against us by virtue of having drafted them. You hereby wa
 electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these
 Legal Terms.
 
-## 22. CONTACT US**
+## 22. CONTACT US
 
 In order to resolve a complaint regarding the Services
 or to receive further information regarding use of the Services, please contact us at:
 
-**DevTracker Discord Bot**
-devtracker@hyperq.be
+https://github.com/s0me-1/devtracker-bot/issues
 
 These terms of use were created using Termly's Terms and Conditions Generator.
